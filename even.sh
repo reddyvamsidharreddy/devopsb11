@@ -10,10 +10,5 @@ echo " $i is a even number"
 else
 echo " $i is  not even number"
 fi
-func
 done
 
-func(){
-    echo "This is a test function"
-}
- master
